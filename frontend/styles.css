@@ -1,0 +1,101 @@
+.heading{
+    text-align:center;
+    
+}
+.site_name{
+    color:blue;
+    font-size:24px; 
+}
+.whole{
+    border:1px solid black;
+    margin-top:100px;
+    margin-left:200px;
+    margin-right:200px;
+    margin-bottom:200px;
+    padding-bottom:20px;  
+}
+.log{
+    background-color:rgb(14, 88, 174);
+    border:aquamarine;
+    margin-top:20px;
+    margin-left:356px;
+    margin-right:20px;
+    padding-left:15px;
+    padding-right:15px;
+    padding-top:5px;
+    padding-bottom:5px;
+    border-radius:5px;
+
+}
+.reg{
+    background-color:rgb(14, 88, 174);
+    border:aquamarine;
+    align-items:center;
+     padding-left:10px;
+    padding-right:10px;
+    padding-top:5px;
+    padding-bottom:5px;   
+    border-radius:5px;
+
+
+}
+.exit{
+    background-color:rgb(14, 88, 174);
+    border:aquamarine;
+    margin-top:100px;
+    margin-left:800px; 
+    padding-left:10px;
+    padding-right:10px;
+    padding-top:5px;
+    padding-bottom:5px;
+    border-radius:5px;
+    
+}
+.link{
+    color:aliceblue;  
+}
+.user{
+    
+    margin-left:300px;
+    margin-bottom:20px;
+    padding:10px;
+    align-content:center;
+    text-align:middle;
+}
+.infirst{
+    margin-left:8px;
+    padding-right:12.5px;
+}
+.inlast{
+    margin-left:10px;
+    padding-right:12.3px;
+}
+.inmail{
+    margin-left:42px;
+    padding-right:12.5px;
+}
+.incon{
+    margin-left:35px;
+    padding-right:12.3px;
+}
+.inpass{
+    margin-left:19.8px;
+    padding-right:12.5px;
+}
+
+.inre{
+    margin-left:7px;
+    padding-right:12.5px;
+}
+.forpass{
+    margin-left:400px;
+    margin-bottom:10px;
+}
+.userna{
+    margin-left:11px;
+    padding-right:12.5px;
+}
+.passwor{
+    margin-left:13.6px;
+    padding-right:12.5px;
+}
